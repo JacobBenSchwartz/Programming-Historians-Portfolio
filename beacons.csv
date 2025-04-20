@@ -1,6 +1,6 @@
 Token,NER,Pleiades_entry,Latitude,Longitude,Order
-Ida,('Ida', 'PERSON')
-Hermaean Crag,('Hermaean', 'PRODUCT')
+Ida,('Ida', 'PERSON'),Ida (mountain),39.6859427667,26.8265529333,1
+Hermaean Crag,('Hermaean', 'PRODUCT'),
 Lemnos,('Lemnos', 'ORG')
 Summit of Athos,('Athos', 'ORG')
 Macistus,('Macistus', 'ORG')
