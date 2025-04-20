@@ -1,0 +1,15 @@
+Token,NER,Pleiades_entry,Latitude,Longitude,Order
+Ida,('Ida', 'PERSON')
+Hermaean Crag,('Hermaean', 'PRODUCT')
+Lemnos,('Lemnos', 'ORG')
+Summit of Athos,('Athos', 'ORG')
+Macistus,('Macistus', 'ORG')
+Euripus' Stream,('Euripus', 'ORG')
+Messapion,N/A,
+Plain of Asopus,('Asopus', 'ORG')
+Cithaeron's Ridges,('Cithaeron', 'ORG')
+Gorgopus' Water,('Gorgopus', 'PERSON')
+Mount of Aegiplanctus,('Aegiplanctus', 'ORG')
+Saronic Gulf,('Saronic gulf', 'LOC')
+Peak of Arachnaeus,('Arachnaeus', 'GPE')
+Roof of the Atreidae,N/A
