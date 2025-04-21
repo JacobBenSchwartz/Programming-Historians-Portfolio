@@ -18,22 +18,22 @@ NER,Pleiades_entry,Lat,Long
 'Mount Cithaeron',Cithaeron (mountain),38.1842024,23.2491897
 'Scythia',Scythia,46.6887007082,29.4750990378
 'Caucasus',Caucasus (mountain range),42.389803561,44.7941380396
-'Ossa',
-'Pindus',
-'Olympus',
-'Alps',
-'Apennines',
-'Ethiopians',
-'Libya',
-'Boeotia',
-'Dirce',
-'Argos',
-'Amymone',
-'Corinth',
-'Pyrene',
-'Tanais',
-'Peneus',
-'Teuthrantian Caicus',
+'Ossa',Ossa (mountain),39.7957104,22.6851571
+'Pindus',Pindus (mountain range),40.044861,20.8380555
+'Olympus',Olympus (mountain),40.06859975,29.2193399
+'Alps',Alpes (mountains),43.7447943789,7.40175591685
+'Apennines',Tetricus (mountains),42.8244115,13.2749722
+'Ethiopians',Aethiopia,33.0829803081,5.77617050791
+'Libya',Libya,31.5,26.5
+'Boeotia',Boeotia,38.3168971672,23.1349191419
+'Dirce',Thebai/Thebae,38.3199488333,23.3176534333
+'Argos',Argos,37.6310468893,22.7203802408
+'Amymone',Amymone,37.5510921676,22.7184383971
+'Corinth',Corinthus/Korinthos,37.9056416435,22.8786143909
+'Pyrene',Corinthus/Korinthos,37.9056416435,22.8786143909
+'Tanais',Tanais (river),50.1101971014,40.7913132216
+'Peneus',Peneios (river),39.6693508315,22.1704627726
+'Teuthrantian Caicus',Caicus (river),39.1037468557,27.3269903889
 'Ismenus',
 'Arcadian Erymanthus',
 'Xanthus',
