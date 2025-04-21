@@ -1,15 +1,15 @@
-Token,NER,Pleiades_entry,Latitude,Longitude,Order
-Ida,('Ida', 'PERSON'),Ida (mountain),39.6859427667,26.8265529333,1
-Hermaean Crag,('Hermaean', 'PRODUCT'),
-Lemnos,('Lemnos', 'ORG')
-Summit of Athos,('Athos', 'ORG')
-Macistus,('Macistus', 'ORG')
-Euripus' Stream,('Euripus', 'ORG')
-Messapion,N/A,
-Plain of Asopus,('Asopus', 'ORG')
-Cithaeron's Ridges,('Cithaeron', 'ORG')
-Gorgopus' Water,('Gorgopus', 'PERSON')
-Mount of Aegiplanctus,('Aegiplanctus', 'ORG')
-Saronic Gulf,('Saronic gulf', 'LOC')
-Peak of Arachnaeus,('Arachnaeus', 'GPE')
-Roof of the Atreidae,N/A
+Token,NER,Pleiades_entry,Latitude,Longitude,Order,Stop/Pass-over
+Ida,"('Ida', 'PERSON')",Ida (mountain),39.6859427667,26.8265529333,1,Stop
+Hermaean Crag,"('Hermaean', 'PRODUCT')",N/A
+Lemnos,"('Lemnos', 'ORG')",Lemnos (island),39.9050198225,25.229093534,2,Stop
+Summit of Athos,"('Athos', 'ORG')",Athos (mountain),40.157222,24.326389,3,Stop,
+Macistus,"('Macistus', 'ORG')",
+Euripus' Stream,"('Euripus', 'ORG')",Euripos,38.462778,23.589444,5,Pass-over,
+Messapion,"N/A",Messapion (mountain),38.4639709,23.4884199,6,Stop
+Plain of Asopus,"('Asopus', 'ORG')", Asopos (river),37.75,22.75,7,Pass-over,
+Cithaeron's Ridges,"('Cithaeron', 'ORG')",Cithaeron (mountain),38.1842024,23.2491897,8,Stop,
+Gorgopus' Water,"('Gorgopus', 'PERSON')",
+Mount of Aegiplanctus,"('Aegiplanctus', 'ORG')",
+Saronic Gulf,"('Saronic gulf', 'LOC')",
+Peak of Arachnaeus,"('Arachnaeus', 'GPE')",
+Roof of the Atreidae,"N/A",
