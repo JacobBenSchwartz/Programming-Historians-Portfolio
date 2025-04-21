@@ -1,22 +1,23 @@
-NER,
-'Cilician Taurus',
-'Athos',
-'Tmolus',
-'Oeta',
-'Ida',
-'Helicon',
-'Hoemos'/'Oeagrius',
-'Aetna',
-'Parnassus',
-'Sicilian Eryx',
-'Cynthus—Othrys',
-'Rhodope',
-'Dindyma',
-'Mycale',
-'Mimas',
-'Mount Cithaeron',
-'Scythia',
-'Caucasus',
+NER,Pleiades_entry,Lat,Long
+'Cilician Taurus',Taurus (mountain range),37.4,34.63
+'Athos',Athos (mountain),40.157222,24.326389
+'Tmolus',Tmolus (mountain),38.323742,28.101611
+'Oeta',Oeta (mountain),38.8043827,22.2692091
+'Ida',Ida (mountain),39.6859427667,26.8265529333
+'Helicon',Helicon (mountain),38.352778,22.8225
+'Hoemos'/'Oeagrius',Haemus (mountain range),42.7175,24.916667
+'Aetna',Aetna (mountain),37.7572327565,14.9845978561
+'Parnassus',Parnassus (mountain),38.53516035,22.6220613
+'Sicilian Eryx',Eryx (mountain),38.0352882,12.5921448
+'Cynthus',Kynthos (mountain),37.1180205808,25.1718797351
+'Othrys',Othrys (mountain),39.016944,22.709722
+'Rhodope',Rhodope (mountain),41.5836049857,24.5342713215
+'Dindyma',Dindymon (mountain),40.466667,27.833333
+'Mycale',Mycale (mountain),37.666667,27.083333
+'Mimas',Mimas (mountain),38.5885485,26.469511
+'Mount Cithaeron',Cithaeron (mountain),38.1842024,23.2491897
+'Scythia',Scythia,46.6887007082,29.4750990378
+'Caucasus',Caucasus (mountain range),42.389803561,44.7941380396
 'Ossa',
 'Pindus',
 'Olympus',
