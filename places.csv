@@ -1,4 +1,4 @@
-NER,Pleiades_entry,Lat,Long,Pleiades/ToposText,Type
+NER,Pleiades/ToposText_entry,Lat,Long,Pleiades/ToposText,Type
 'Cilician Taurus',Taurus (mountain range),37.4,34.63,P,Mountain
 'Athos',Athos (mountain),40.157222,24.326389,P,Mountain
 'Tmolus',Tmolus (mountain),38.323742,28.101611,P,Mountain
