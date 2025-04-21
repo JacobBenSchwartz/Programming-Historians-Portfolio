@@ -1,62 +1,62 @@
-NER,Pleiades_entry,Lat,Long
-'Cilician Taurus',Taurus (mountain range),37.4,34.63
-'Athos',Athos (mountain),40.157222,24.326389
-'Tmolus',Tmolus (mountain),38.323742,28.101611
-'Oeta',Oeta (mountain),38.8043827,22.2692091
-'Ida',Ida (mountain),39.6859427667,26.8265529333
-'Helicon',Helicon (mountain),38.352778,22.8225
-'Hoemos'/'Oeagrius',Haemus (mountain range),42.7175,24.916667
-'Aetna',Aetna (mountain),37.7572327565,14.9845978561
-'Parnassus',Parnassus (mountain),38.53516035,22.6220613
-'Sicilian Eryx',Eryx (mountain),38.0352882,12.5921448
-'Cynthus',Kynthos (mountain),37.1180205808,25.1718797351
-'Othrys',Othrys (mountain),39.016944,22.709722
-'Rhodope',Rhodope (mountain),41.5836049857,24.5342713215
-'Dindyma',Dindymon (mountain),40.466667,27.833333
-'Mycale',Mycale (mountain),37.666667,27.083333
-'Mimas',Mimas (mountain),38.5885485,26.469511
-'Mount Cithaeron',Cithaeron (mountain),38.1842024,23.2491897
-'Scythia',Scythia,46.6887007082,29.4750990378
-'Caucasus',Caucasus (mountain range),42.389803561,44.7941380396
-'Ossa',Ossa (mountain),39.7957104,22.6851571
-'Pindus',Pindus (mountain range),40.044861,20.8380555
-'Olympus',Olympus (mountain),40.06859975,29.2193399
-'Alps',Alpes (mountains),43.7447943789,7.40175591685
-'Apennines',Tetricus (mountains),42.8244115,13.2749722
-'Ethiopians',Aethiopia,33.0829803081,5.77617050791
-'Libya',Libya,31.5,26.5
-'Boeotia',Boeotia,38.3168971672,23.1349191419
-'Dirce',Thebai/Thebae,38.3199488333,23.3176534333
-'Argos',Argos,37.6310468893,22.7203802408
-'Amymone',Amymone,37.5510921676,22.7184383971
-'Corinth',Corinthus/Korinthos,37.9056416435,22.8786143909
-'Pyrene',Corinthus/Korinthos,37.9056416435,22.8786143909
-'Tanais',Tanais (river),50.1101971014,40.7913132216
-'Peneus',Peneios (river),39.6693508315,22.1704627726
-'Teuthrantian Caicus',Caicus (river),39.1037468557,27.3269903889
-'Ismenus',
-'Arcadian Erymanthus',Erymanthos (river),37.6174887426,21.7948652399
-'Xanthus',Xanthos,36.357103128,29.3201889773
-'Lycormas',
-'Meander',
-'Thracian Melas',
-'Laconian Eurotas',
-'Babylonian Euphrates',
-'Orontes',
-'Ganges',
-'Thermodon',
-'Ister',
-'Phasis',
-'Alpheus',
-'Spercheus',
-'Tagus',
-'Maeonian',
-'Cayster',
-'Nile',
-'Ismenian Hebrus',
-'Strymon',
-'Hesper-Land',
-'Rhine',
-'Rhone',
-'Po',
-'Tiber'
+NER,Pleiades_entry,Lat,Long,Pleiades/ToposText,Type
+'Cilician Taurus',Taurus (mountain range),37.4,34.63,P,Mountain
+'Athos',Athos (mountain),40.157222,24.326389,P,Mountain
+'Tmolus',Tmolus (mountain),38.323742,28.101611,P,Mountain
+'Oeta',Oeta (mountain),38.8043827,22.2692091,P,Mountain
+'Ida',Ida (mountain),39.6859427667,26.8265529333,P,Mountain
+'Helicon',Helicon (mountain),38.352778,22.8225,P,Mountain
+'Hoemos'/'Oeagrius',Haemus (mountain range),42.7175,24.916667,P,Mountain
+'Aetna',Aetna (mountain),37.7572327565,14.9845978561,P,Mountain
+'Parnassus',Parnassus (mountain),38.53516035,22.6220613,P,Mountain
+'Sicilian Eryx',Eryx (mountain),38.0352882,12.5921448,P,Mountain
+'Cynthus',Kynthos (mountain),37.1180205808,25.1718797351,P,Mountain
+'Othrys',Othrys (mountain),39.016944,22.709722,P,Mountain
+'Rhodope',Rhodope (mountain),41.5836049857,24.5342713215,P,Mountain
+'Dindyma',Dindymon (mountain),40.466667,27.833333,P,Mountain
+'Mycale',Mycale (mountain),37.666667,27.083333,P,Mountain
+'Mimas',Mimas (mountain),38.5885485,26.469511,P,Mountain
+'Mount Cithaeron',Cithaeron (mountain),38.1842024,23.2491897,P,Mountain
+'Scythia',Scythia,46.6887007082,29.4750990378,P,Region
+'Caucasus',Caucasus (mountain range),42.389803561,44.7941380396,P,Mountain
+'Ossa',Ossa (mountain),39.7957104,22.6851571,P,Mountain
+'Pindus',Pindus (mountain range),40.044861,20.8380555,P,Mountain
+'Olympus',Olympus (mountain),40.06859975,29.2193399,P,Mountain
+'Alps',Alpes (mountains),43.7447943789,7.40175591685,P,Mountain
+'Apennines',Apennine mountains (Italia),42.470000,13.567000,T,Mountain
+'Ethiopians',Aethiopia,33.0829803081,5.77617050791,P,Region
+'Libya',Libya,31.5,26.5,P,Region
+'Boeotia',Boeotia,38.3168971672,23.1349191419,P,Region
+'Dirce',Dirke (Boeotia),38.318300,23.314300,T,Water
+'Argos',Argos,37.6310468893,22.7203802408,P,City
+'Amymone',Amymone,37.5510921676,22.7184383971,P,Water
+'Corinth',Corinthus/Korinthos,37.9056416435,22.8786143909,P,City
+'Pyrene',Peirene fountain (Corinth),37.905680,22.880590,T,Water
+'Tanais',Tanais (river),50.1101971014,40.7913132216,P,Water
+'Peneus',Peneios (river),39.6693508315,22.1704627726,P,Water
+'Teuthrantian Caicus',Caicus (river),39.1037468557,27.3269903889,P,Water
+'Ismenus',Ismenos river (Boeotia),38.324800,23.324400,T,Water
+'Arcadian Erymanthus',Erymanthos (river),37.6174887426,21.7948652399,P,Water
+'Xanthus',Xanthos,36.357103128,29.3201889773,P,City
+'Lycormas',Euenos (river),38.32639506,21.5184646664,P,Water
+'Meander',Maeander (river),37.8854162033,28.4853081362,P,Water
+'Thracian Melas',Melas? (river),40.6183926493,26.8789943623,P,Water
+'Laconian Eurotas',Eurotas (river),37.0577273076,22.4781790469,P,Water
+'Babylonian Euphrates',Euphrates (river),35.6600432056,39.3738585159,P,Water
+'Orontes',Orontes (river),35.3783757497,36.4781340789,P,Water
+'Ganges',Ganges (river),25.9323267649,83.7799018947,P,Water
+'Thermodon',Thermodon (river),41.2051784694,36.9755890667,P,Water
+'Ister',Danuvius/Istros/Hister (river),46.2764915176,19.4480237194,P,Water
+'Phasis',Phasis (river),42.3694149208,42.6882171315,P,Water
+'Alpheus',Alphe(i)os (river),37.5147993019,21.8725036732,P,Water
+'Spercheus',Spercheios,38.903994557,22.2091329114,P,Water
+'Tagus',Tagus (river),39.9037145769,-5.10699568834,P,Water
+'Maeonian',Lydia/Maionia (region),38.5865199114,28.7461282724,P,Region
+'Cayster',Cayster (river),37.9835451035,27.3582315009,P,Water
+'Nile',Nilus (river),16.6582979509,30.8044148196,P,Water
+'Ismenian Hebrus',Hebros R. (Evros),40.785570,26.182500,P,Water
+'Strymon',Strymon (river),41.809453061,23.161189893,P,Water
+'Hesper-Land',N/A,N/A,N/A,N/A,Region
+'Rhine',Rhenus (river),49.6380760082,7.46057338683,P,Water
+'Rhone',Rhodanus (river),45.1285216343,6.33553219515,P,Water
+'Po',Padus/Eridanus (river),44.9972897676,9.96512278141,P,Water
+'Tiber',Tiberis (river),42.7082004004,12.369277191,P,Water
