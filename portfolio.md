@@ -20,4 +20,5 @@ Used stylometry to determine the authorship of some disputed documents from the 
 
 - ph_url: https://programminghistorian.org/en/lessons/analyzing-multilingual-text-nltk-spacy-stanza#part-of-speech-tagging
 - my_url: https://github.com/JacobBenSchwartz/Programming-Historians-Portfolio/blob/main/Analyzing-Multilingual-French-and-Russian-Text-using-NLTK-spaCy-and-Stanza.ipynb
+
 Did part-of-speech tagging and lemmatization for French and Russian in Tolstoy's War and Peace. Since most of what I will be working on is in Latin and/or Greek, I figured it would be worthwhile to understand how this sort of textual analysis works for languages other than English. 
